@@ -1,10 +1,10 @@
 // create an array of employees
 let employees = [
-    { id: 00000001, name: 'Braydon Johnston', extension: 1234, email: 'bjohnston@company.com', department: 'Administrative' },
-    { id: 00000002, name: 'Enzo Weiss', extension: 2345, email: 'eweiss@company.com', department: 'Engineering' },
-    { id: 00000003, name: 'Caleb Dickson', extension: 3456, email: 'cdickson@company.com', department: 'Marketing' },
-    { id: 00000004, name: 'Adam Mac', extension: 4567, email: 'amac@company.com', department: 'Sales' },
-    { id: 00000005, name: 'Dariel Gu', extension: 5678, email: 'dgu@company.com', department: 'Executive' }
+    { id: 10000001, name: 'Braydon Johnston', extension: 1234, email: 'bjohnston@company.com', department: 'Administrative' },
+    { id: 10000002, name: 'Enzo Weiss', extension: 2345, email: 'eweiss@company.com', department: 'Engineering' },
+    { id: 10000003, name: 'Caleb Dickson', extension: 3456, email: 'cdickson@company.com', department: 'Marketing' },
+    { id: 10000004, name: 'Adam Mac', extension: 4567, email: 'amac@company.com', department: 'Sales' },
+    { id: 10000005, name: 'Dariel Gu', extension: 5678, email: 'dgu@company.com', department: 'Executive' }
 ];
 
 // check to see if storage object exists when the page loads
